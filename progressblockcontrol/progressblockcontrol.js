@@ -1,3 +1,6 @@
+/**
+ * @description Модуль, привязывющий функции ProgressBlock-а к собственным элементам управления
+ */
 ;(function () {
     const progressBlock = document.querySelector('.progress-block');
 

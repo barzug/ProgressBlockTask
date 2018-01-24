@@ -1,3 +1,4 @@
+/* прячет сам checkbox, рисует его на div-e с текстом */
 .checkbox {
     margin: 10px;
     padding-top: 4px;
